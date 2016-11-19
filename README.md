@@ -1,6 +1,9 @@
-# Lightning-Talks
-Lightning Talk Sign-Up
+# TRINUG Lightning Talks
+## Lightning Talk Sign-Up
 
-Name | Topic
+![alt text](http://trinug.org/Content/Images/trinuglogo-redblue.png "TRINUG logo")
+
+### Scheduled Lightning Talk Dates
+Date | Sign-Up Link
 --- | --- 
-Your name here | Your topic here
+Dec 14, 2016 | [view](/2016-December/lightnin-talks.md)
