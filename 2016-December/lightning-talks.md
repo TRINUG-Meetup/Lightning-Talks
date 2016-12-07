@@ -5,4 +5,5 @@ Name | Topic
 --- | --- 
 Kevin Feasel | Become a better presenter in 5 minutes
 Pete Levine | Linting CSS in VSCode
+Jose Gonzalez | Mega Man Robot Masters - A simple React app
 Your name here | Your topic here
