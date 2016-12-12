@@ -7,4 +7,5 @@ Kevin Feasel | Become a better presenter in 5 minutes
 Pete Levine | Linting CSS in VSCode
 Jose Gonzalez | Mega Man Robot Masters - A simple React app
 Richard Scott | Ah CRUD, but better than EF
+Brant Burnett | HTML5/JS UI for .Net desktop applications using Positron
 Your name here | Your topic here
