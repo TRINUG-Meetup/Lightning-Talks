@@ -11,4 +11,5 @@ Mark Hutchinson | Hats off, gentlemen
 Mark Hutchinson | An Excel trick
 Brant Burnett | HTML5/JS UI for .Net desktop applications using Positron
 Paul Schrum | Asking 4 help: Generic Class architecture
+Kip Streithorst | Code: More Signal, Less Noise
 Your name here | Your topic here
