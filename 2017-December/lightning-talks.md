@@ -5,4 +5,6 @@ Name | Topic
 --- | --- 
 Patrick Steger | 5-Minute Serverless Blitz
 Kevin Feasel | WTF Visualizations
-Your name here | Your topic here
+Elaine Cahill | LINQ YOLO
+<your name here> | <your topic here>
+  
