@@ -4,4 +4,4 @@
 ### Scheduled Lightning Talk Dates
 Meetup Link | Lightning Talk Sign-Up Link
 --- | --- 
-[Dec 13, 2017](https://www.meetup.com/TRINUG/events/245228573/ "Meetup") | [view talks](./2017-December/lightning-talks.md)
+[Dec 12, 2018](https://www.meetup.com/TRINUG/events/256498495/ "Meetup") | [view talks](./2018-December/lightning-talks.md)
